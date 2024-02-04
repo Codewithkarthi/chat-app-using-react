@@ -1,4 +1,4 @@
-![image](https://github.com/Codewithkarthi/chat-app-using-react/assets/148317926/30cc6e69-2811-4b26-98d9-759e97106915)# chat-app-using-react
+# chat-app-using-react
 **screen shots:**
 
 **login page:**
