@@ -1,4 +1,4 @@
-**screenshots**
+**screenshots of the website**
 
   **login view**:
 
